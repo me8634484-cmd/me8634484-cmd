@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Mariam Eid 👋</h1>
 <h3 align="center">Software Engineering Student & Full-Stack Web Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=me8634484-cmd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
