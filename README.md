@@ -46,14 +46,7 @@
 
 ---
 
-### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me8634484-cmd&show_icons=true&theme=radical&hide_border=true" alt="Mariam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me8634484-cmd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### 📫 Connect With Me
 <p>
